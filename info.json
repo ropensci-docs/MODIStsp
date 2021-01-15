@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "07d305c2fab5fdf9b981e5f91df352ceb1eac734",
+    "author": "Luigi Ranghetti <6874239+ranghetti@users.noreply.github.com>",
+    "time": "2021-01-15 16:14:10",
+    "files": 5,
+    "merge": false,
+    "message": "V. 2.0.5.9001 (#230)\n\n* Update develop version\r\n\r\n* DOI preferrer resolver (#131)\r\n\r\n* Try fixing #226"
+  },
+  "remote": "https://github.com/ropensci/MODIStsp",
+  "pkg": "MODIStsp"
+}
