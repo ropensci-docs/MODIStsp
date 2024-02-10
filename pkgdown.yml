@@ -1,0 +1,20 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  MODIStsp: MODIStsp.html
+  analyze: analyze.html
+  discovered_bug: discovered_bug.html
+  faq: faq.html
+  installation: installation.html
+  interactive_execution: interactive_execution.html
+  lorenzo: lorenzo.html
+  noninteractive_execution: noninteractive_execution.html
+  output: output.html
+  products_list: products_list.html
+  standalone_execution: standalone_execution.html
+last_built: 2024-02-10T06:25Z
+urls:
+  reference: https://docs.ropensci.org/MODIStsp/reference
+  article: https://docs.ropensci.org/MODIStsp/articles
+
